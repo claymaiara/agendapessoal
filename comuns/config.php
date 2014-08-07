@@ -7,7 +7,7 @@
 /* Banco de dados */
 $_config["bd"]["host"] = "localhost";
 $_config["bd"]["usuario"] = "root";
-$_config["bd"]["senha"] = "clay";
+$_config["bd"]["senha"] = "root";
 $_config["bd"]["database"] = "agendapessoal";
 
 /* Páginas seguras */
